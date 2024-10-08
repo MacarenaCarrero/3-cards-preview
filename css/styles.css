@@ -21,4 +21,16 @@ ul {
 body {
   margin: 0;
   font-family: sans-serif;
+  color: white;
+}
+
+.card {
+  height: 442px;
+}
+
+.card-orange {
+  background-color: #e28625;
+}
+.button {
+  background-color: white;
 }
